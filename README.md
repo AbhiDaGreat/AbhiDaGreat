@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhiDaGreat
 - 👀 I’m interested in everything that is not known to me.
 - 🌱 I’m currently learning ASP.NET in college, BOOTSTRAP and MS SQL from youtube.
-- 💞️ I’m looking to for a guide, a mentor, who can guide me through the little issues which occurs first time for me, rest I'm ready to work whole day on my laptop.
+- 💞️ I’m looking for a guide, a mentor, who can guide me through the little issues which occurs first time for me, rest I'm ready to work whole day on my laptop.
 - 📫 You can contact me through my Instagram:-0 @abhidagreat1, LinkedIn:- Abhishek Kumar Mahato and WHATSAPP:- 6287662216 ...
 
 <!---
