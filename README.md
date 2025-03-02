@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhisshek Mahato
+- 👋 Hi, I’m @Abhishek Mahato
 - 👀 I’m interested in everything that is not known to me.
 - 🌱 I’m currently learning ASP.NET in college, BOOTSTRAP and MS SQL from youtube.
 - 💞️ I’m looking for a guide, a mentor, who can guide me through the little issues which occurs first time for me, rest I'm ready to work whole day on my laptop.
